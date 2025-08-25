@@ -1,0 +1,1 @@
+export const url = 'https://translator-backend-f973.onrender.com'
